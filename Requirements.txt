@@ -1,0 +1,8 @@
+sklearn-crfsuite
+nltk
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
